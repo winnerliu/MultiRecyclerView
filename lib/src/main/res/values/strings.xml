@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lib</string>
+    <string name="kadindex_loading">康康正在努力为你加载更多...</string>
+    <string name="kadindex_nomore_loading">已加载全部</string>
+    <string name="kadindex_search_hint_tip">搜索药品/器械/成人用品</string>
+    <string name="kadindex_connection_fail">网络连接不稳定，请稍后重试</string>
+    <string name="kadindex_request_fail">网络请求异常，请稍后重试</string>
+
+    <string name="multirecyclerview_loading">康康正在努力为你加载更多...</string>
+    <string name="multirecyclerview_nomore_loading">已加载全部</string>
+    <string name="multirecyclerview_loading_done">加载完成</string>
+</resources>
